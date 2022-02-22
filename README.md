@@ -1,6 +1,7 @@
 # Movie-Rental-Store
 
 compile: g++ borrow.cpp classic.cpp comedy.cpp customer.cpp drama.cpp factory.cpp hashTable.cpp history.cpp inventory.cpp movie.cpp return.cpp store.cpp transaction.cpp
+
 run : ./a.out
 
 Description: A local movie rental store wishes to automate their inventory tracking system.
